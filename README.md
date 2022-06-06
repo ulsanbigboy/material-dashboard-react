@@ -89,9 +89,9 @@ Quick start options:
 
 The documentation for the Material Dashboard is hosted at our [website](https://www.creative-tim.com/learning-lab/react/overview/material-dashboard/?ref=readme-mdr).
 
-### What's included
+### 파일 리스트
 
-Within the download you'll find the following directories and files:
+파일 리스트 :
 
 ```
 material-dashboard-react
@@ -162,9 +162,9 @@ material-dashboard-react
     └── README.md
 ```
 
-## Browser Support
+## 지원 브라우저
 
-At present, we officially aim to support the last two versions of the following browsers:
+하단 브라우저를 지원 합니다. :
 
 <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/chrome.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/firefox.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/edge.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/safari.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/opera.png" width="64" height="64">
 
