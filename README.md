@@ -218,12 +218,11 @@ Instagram: <https://instagram.com/creativetimofficial>
 
 
 
-##### Social Media
-npm install
-npm start
-npm run build
-
-https://github.com/creativetimofficial/material-dashboard-react
+##### 참고자료
+- 초기설정: `npm install`
+- 서버실행: `npm start`
+- 배포생성: `npm run build`
+- [원본소스](https://github.com/creativetimofficial/material-dashboard-react)
 
 
 
