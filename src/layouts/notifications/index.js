@@ -60,9 +60,9 @@ function Notifications() {
     <MDSnackbar
       color="success"
       icon="check"
-      title="Material Dashboard"
-      content="Hello, world! This is a notification message"
-      dateTime="11 mins ago"
+      title="** 알림 **"
+      content="상품 마스터가 업데이트 되었습니다."
+      dateTime="11 분전 업데이트"
       open={successSB}
       onClose={closeSuccessSB}
       close={closeSuccessSB}
@@ -73,9 +73,9 @@ function Notifications() {
   const renderInfoSB = (
     <MDSnackbar
       icon="notifications"
-      title="Material Dashboard"
-      content="Hello, world! This is a notification message"
-      dateTime="11 mins ago"
+      title="** 정보 **"
+      content="메시자가 도착 하였습니다."
+      dateTime="12 분전 업데이트"
       open={infoSB}
       onClose={closeInfoSB}
       close={closeInfoSB}
@@ -86,8 +86,8 @@ function Notifications() {
     <MDSnackbar
       color="warning"
       icon="star"
-      title="Material Dashboard"
-      content="Hello, world! This is a notification message"
+      title="** 경고 **"
+      content="디스크 사용율이 90% 초과 했습니다."
       dateTime="11 mins ago"
       open={warningSB}
       onClose={closeWarningSB}
@@ -100,8 +100,8 @@ function Notifications() {
     <MDSnackbar
       color="error"
       icon="warning"
-      title="Material Dashboard"
-      content="Hello, world! This is a notification message"
+      title="** 에러 **"
+      content="배치작업중 에러가 발생하였습니다."
       dateTime="11 mins ago"
       open={errorSB}
       onClose={closeErrorSB}

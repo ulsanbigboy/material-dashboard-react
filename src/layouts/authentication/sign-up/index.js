@@ -48,10 +48,10 @@ function Cover() {
           textAlign="center"
         >
           <MDTypography variant="h4" fontWeight="medium" color="white" mt={1}>
-            Join us today
+            가입하기
           </MDTypography>
           <MDTypography display="block" variant="button" color="white" my={1}>
-            Enter your email and password to register
+            이메일, 암호를 입력하세요
           </MDTypography>
         </MDBox>
         <MDBox pt={4} pb={3} px={3}>
